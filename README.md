@@ -35,3 +35,8 @@ This project uses **Random Forest Regression** for accurate price estimation and
    pip install pandas scikit-learn streamlit
    python train_model.py
    streamlit run app.py
+
+# Author
+  Ali Emad (asgard)
+  Email: aayth8700@gmail.com
+  Instagram: @3.9.9.6
