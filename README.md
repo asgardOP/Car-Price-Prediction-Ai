@@ -14,6 +14,8 @@ This project uses **Random Forest Regression** for accurate price estimation and
 
 ---
 
+![App Screenshot](download.png)
+
 ## 🗂️ Project Files
 
 | File | Description |
